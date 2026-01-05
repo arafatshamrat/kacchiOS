@@ -1,7 +1,7 @@
 #ifndef PROCESS_H
 #define PROCESS_H
 
-#define MAX_PROCESSES 10
+#define MAX_PROCESSES 128
 
 #define READY       0
 #define CURRENT     1

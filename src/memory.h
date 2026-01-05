@@ -1,7 +1,7 @@
 #ifndef MEMORY_H
 #define MEMORY_H
 
-#define RAM_SIZE 65536
+#define RAM_SIZE 65536  // 64 KB of simulated RAM
 #define MAX_BLOCKS 128
 
 void memory_init();
